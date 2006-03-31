@@ -3,17 +3,17 @@
 {|
 ! &nbsp; !! - !! b !! p !! bb !! nb !! hm !! m !! f !! v !! d !! t !! dd !! nd !! hn !! n !! hl !! l !! g !! k !! gg !! mg !! hx !! ng !! h !! w !! z !! c !! zz !! nz !! s !! ss !! zh !! ch !! rr !! nr !! sh !! r !! j !! q !! jj !! nj !! ny !! x !! y
 |-----
-! <font style="background:lightblue">i<sup>t</sup>
+! <font style="background:lightblue">i<sup>t</sup></font>
 | ꀀ || ꀖ || ꀸ || ꁖ || ꁶ || ꂑ || ꂮ || ꃍ || ꃢ || ꄀ || ꄚ || ꄶ || ꅑ || ꅨ || ꅽ || ꆗ || ꆷ || ꇚ || ꇸ || ꈔ || &nbsp; || ꉆ || &nbsp; || ꉮ || &nbsp; || ꊍ || ꊮ || ꋐ || ꋭ || ꌉ || ꌪ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꏠ || ꏼ || ꐘ || ꐱ || ꑊ || ꑝ || ꑱ
 |-----
-! <font style="background:lightblue">i<sup>x</sup>
+! <font style="background:lightblue">i<sup>x</sup></font>
 | ꀁ || ꀗ || ꀹ || ꁗ || ꁷ || ꂒ || ꂯ || ꃎ || ꃣ || ꄁ || ꄛ || ꄷ || ꅒ || ꅩ || ꅾ || ꆘ || ꆸ || ꇛ || ꇹ || ꈕ || &nbsp; || ꉇ || &nbsp; || &nbsp; || &nbsp; || ꊎ || ꊯ || ꋑ || ꋮ || ꌊ || ꌫ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꏡ || ꏽ || ꐙ || ꐲ || ꑋ || ꑞ || ꑲ
 |-----
-! <font style="background:lightblue">i
+! <font style="background:lightblue">i</font>
 | ꀂ || ꀘ || ꀺ || ꁘ || ꁸ || ꂓ || ꂰ || ꃏ || ꃤ || ꄂ || ꄜ || ꄸ || ꅓ || ꅪ || ꅿ || ꆙ || ꆹ || ꇜ || ꇺ || ꈖ || &nbsp; || ꉈ || &nbsp; || &nbsp; || &nbsp; || ꊏ || ꊰ || ꋒ || ꋯ || ꌋ || ꌬ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꏢ || ꏾ || ꐚ || ꐳ || ꑌ || ꑟ || ꑳ
 |-----
-! <font style="background:lightblue">i<sup>p</sup>
-| ꀃ || ꀙ || ꀻ || ꁙ || ꁹ || ꂔ || ꂱ || ꃐ || ꃥ || ꄃ || ꄝ || ꄹ || ꅔ || ꅫ || ꆀ || ꆚ || ꆺ || ꇝ || ꇻ || &nbsp; || &nbsp; || ꉉ || &nbsp; || &nbsp; || &nbsp; || ꊐ || ꊱ || ꋓ || ꋰ || ꌌ || ꌭ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꏣ || ꏿ || ꐛ || ꐴ || ꑍ || ꑠ || ꑴ </font>
+! <font style="background:lightblue">i<sup>p</sup></font>
+| ꀃ || ꀙ || ꀻ || ꁙ || ꁹ || ꂔ || ꂱ || ꃐ || ꃥ || ꄃ || ꄝ || ꄹ || ꅔ || ꅫ || ꆀ || ꆚ || ꆺ || ꇝ || ꇻ || &nbsp; || &nbsp; || ꉉ || &nbsp; || &nbsp; || &nbsp; || ꊐ || ꊱ || ꋓ || ꋰ || ꌌ || ꌭ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꏣ || ꏿ || ꐛ || ꐴ || ꑍ || ꑠ || ꑴ
 |-----
 ! ie<sup>t</sup>
 | ꀄ || ꀚ || &nbsp; || ꁚ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꃦ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꅬ || &nbsp; || &nbsp; || ꆻ || ꇞ || &nbsp; || &nbsp; || &nbsp; || ꉊ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊲ || ꋔ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꏤ || ꐀ || ꐜ || ꐵ || ꑎ || ꑡ || ꑵ
@@ -27,16 +27,16 @@
 ! ie<sup>p</sup>
 | ꀇ || ꀝ || ꀾ || ꁝ || ꁼ || ꂗ || ꂴ || &nbsp; || ꃩ || ꄆ || ꄠ || ꄼ || &nbsp; || ꅯ || ꆃ || ꆝ || ꆾ || ꇡ || ꇾ || ꈙ || &nbsp; || ꉍ || ꉟ || &nbsp; || &nbsp; || ꊓ || ꊵ || ꋗ || ꋳ || ꌏ || ꌰ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꏧ || ꐃ || ꐟ || ꐸ || ꑑ || ꑤ || ꑸ
 |-----
-! <font style="background:lightblue">a<sup>t</sup>
+! <font style="background:lightblue">a<sup>t</sup></font>
 | ꀈ || ꀞ || ꀿ || ꁞ || ꁽ || ꂘ || ꂵ || ꃑ || ꃪ || ꄇ || ꄡ || ꄽ || ꅗ || ꅰ || &nbsp; || ꆞ || ꆿ || ꇢ || ꇿ || ꈚ || ꈲ || ꉎ || ꉠ || ꉱ || ꊀ || ꊔ || ꊶ || ꋘ || ꋴ || ꌐ || ꌱ || ꍉ || ꍤ || &nbsp; || ꎗ || ꎮ || ꏉ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
 |-----
-! <font style="background:lightblue">a<sup>x</sup>
+! <font style="background:lightblue">a<sup>x</sup></font>
 | ꀉ || ꀟ || ꁀ || ꁟ || ꁾ || ꂙ || ꂶ || ꃒ || ꃫ || ꄈ || ꄢ || ꄾ || ꅘ || ꅱ || ꆄ || ꆟ || ꇀ || ꇣ || ꈀ || ꈛ || ꈳ || ꉏ || ꉡ || ꉲ || ꊁ || ꊕ || ꊷ || ꋙ || ꋵ || ꌑ || ꌲ || ꍇ || ꍢ || ꍼ || ꎕ || ꎬ || ꏇ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
 |-----
-! <font style="background:lightblue">a
+! <font style="background:lightblue">a</font>
 | ꀊ || ꀠ || ꁁ || ꁠ || ꁿ || ꂚ || ꂷ || ꃓ || ꃬ || ꄉ || ꄣ || ꄿ || ꅙ || ꅲ || ꆅ || ꆠ || ꇁ || ꇤ || ꈁ || ꈜ || ꈴ || ꉐ || ꉢ || ꉳ || ꊂ || ꊖ || ꊸ || ꋚ || ꋶ || ꌒ || ꌳ || ꍈ || ꍣ || ꍽ || ꎖ || ꎭ || ꏈ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
 |-----
-! <font style="background:lightblue">a<sup>p</sup>
+! <font style="background:lightblue">a<sup>p</sup></font>
 | ꀋ || ꀡ || ꁂ || ꁡ || ꂀ || ꂛ || ꂸ || ꃔ || ꃭ || ꄊ || ꄤ || ꅀ || ꅚ || ꅳ || ꆆ || ꆡ || ꇂ || ꇥ || ꈂ || ꈝ || ꈵ || ꉑ || ꉣ || ꉴ || ꊃ || ꊗ || ꊹ || ꋛ || ꋷ || ꌓ || ꌴ || ꍉ || ꍤ || &nbsp; || ꎗ || ꎮ || ꏉ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
 |-----
 ! uo<sup>t</sup>
@@ -51,16 +51,16 @@
 ! uo<sup>p</sup>
 | ꀎ || ꀤ || ꁅ || ꁤ || &nbsp; || ꂞ || ꂼ || &nbsp; || &nbsp; || &nbsp; || ꄨ || ꅃ || &nbsp; || &nbsp; || ꆉ || ꆤ || ꇆ || ꇩ || ꈅ || ꈡ || ꈸ || ꉕ || &nbsp; || ꉸ || ꊆ || ꊚ || ꊼ || &nbsp; || &nbsp; || ꌖ || &nbsp; || ꍌ || ꍨ || &nbsp; || &nbsp; || ꎱ || ꏌ || ꏫ || ꐇ || ꐢ || &nbsp; || ꑔ || &nbsp; || ꑼ
 |-----
-! <font style="background:lightblue">o<sup>t</sup>
+! <font style="background:lightblue">o<sup>t</sup></font>
 | ꀏ || ꀥ || ꁆ || ꁥ || ꂁ || ꂟ || ꂽ || &nbsp; || ꃮ || ꄍ || ꄩ || ꅄ || ꅛ || ꅶ || ꆊ || &nbsp; || ꇇ || ꇪ || ꈆ || ꈢ || ꈹ || ꉖ || ꉧ || ꉹ || &nbsp; || ꊛ || ꊽ || &nbsp; || &nbsp; || ꌗ || ꌵ || ꍐ || ꍬ || ꎃ || &nbsp; || ꎵ || ꏐ || ꏬ || ꐈ || ꐣ || ꐻ || ꑕ || ꑧ || ꑽ
 |-----
-! <font style="background:lightblue">o<sup>x</sup>
+! <font style="background:lightblue">o<sup>x</sup></font>
 | ꀐ || ꀦ || ꁇ || ꁦ || ꂂ || ꂠ || ꂾ || ꃕ || ꃯ || ꄎ || ꄪ || ꅅ || ꅜ || ꅷ || ꆋ || ꆥ || ꇈ || ꇫ || ꈇ || ꈣ || ꈺ || ꉗ || ꉨ || ꉺ || ꊇ || ꊜ || ꊾ || ꋜ || ꋺ || ꌘ || ꌶ || ꍎ || ꍪ || ꎁ || ꎘ || ꎳ || ꏎ || ꏭ || ꐉ || ꐤ || ꐼ || ꑖ || ꑨ || ꑾ
 |-----
-! <font style="background:lightblue">o
+! <font style="background:lightblue">o</font>
 | ꀑ || ꀧ || ꁈ || ꁧ || ꂃ || ꂡ || ꂿ || ꃖ || ꃰ || ꄏ || ꄫ || ꅆ || ꅝ || &nbsp; || ꆌ || ꆦ || ꇉ || ꇬ || ꈈ || ꈤ || ꈻ || ꉘ || ꉩ || ꉻ || ꊈ || ꊝ || ꊿ || ꋝ || &nbsp; || ꌙ || ꌷ || ꍏ || ꍫ || ꎂ || ꎙ || ꎴ || ꏏ || ꏮ || ꐊ || ꐥ || ꐽ || ꑗ || ꑩ || ꑿ
 |-----
-! <font style="background:lightblue">o<sup>p</sup>
+! <font style="background:lightblue">o<sup>p</sup></font>
 | ꀒ || ꀨ || ꁉ || ꁨ || ꂄ || ꂢ || ꃀ || ꃗ || ꃱ || ꄐ || ꄬ || ꅇ || ꅞ || ꅸ || ꆍ || ꆧ || ꇊ || ꇭ || ꈉ || ꈥ || ꈼ || ꉙ || ꉪ || ꉼ || ꊉ || ꊞ || ꋀ || ꋞ || ꋻ || ꌚ || ꌸ || ꍐ || ꍬ || ꎃ || ꎚ || ꎵ || ꏐ || ꏯ || ꐋ || ꐦ || ꐾ || ꑘ || ꑪ || ꒀ
 |-----
 ! e<sup>t</sup>
@@ -75,16 +75,16 @@
 ! e<sup>p</sup>
 | &nbsp; || ꀫ || &nbsp; || ꁫ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꃳ || ꄓ || ꄯ || ꅊ || ꅡ || ꅻ || ꆐ || ꆪ || ꇍ || ꇱ || ꈍ || ꈩ || ꈿ || ꉜ || ꉭ || ꉿ || ꊌ || ꊡ || ꋃ || ꋡ || &nbsp; || ꌝ || ꌻ || ꍔ || ꍰ || ꎇ || ꎞ || ꎹ || ꏓ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
 |-----
-! <font style="background:lightblue">u<sup>t</sup>
+! <font style="background:lightblue">u<sup>t</sup></font>
 | &nbsp; || ꀬ || ꁊ || ꁬ || ꂅ || ꂣ || ꃃ || ꃘ || ꃴ || ꄔ || ꄰ || ꅋ || ꅢ || ꅼ || ꆑ || ꆫ || ꇎ || ꇲ || ꈎ || ꈪ || ꉀ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊢ || ꋄ || &nbsp; || &nbsp; || ꌞ || ꌼ || ꍘ || &nbsp; || ꎋ || ꎢ || ꎽ || ꏗ || ꏰ || ꐌ || ꐧ || &nbsp; || ꑙ || &nbsp; || ꒁ
 |-----
-! <font style="background:lightblue">u<sup>x</sup>
+! <font style="background:lightblue">u<sup>x</sup></font>
 | &nbsp; || ꀭ || ꁋ || ꁭ || ꂆ || ꂤ || ꃄ || ꃙ || ꃵ || ꄕ || ꄱ || ꅌ || ꅣ || &nbsp; || ꆒ || ꆬ || ꇏ || ꇳ || ꈏ || ꈫ || ꉁ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊣ || ꋅ || ꋢ || ꋾ || ꌟ || ꌽ || ꍖ || ꍱ || ꎉ || ꎠ || ꎻ || ꏕ || ꏱ || ꐍ || ꐨ || ꐿ || ꑚ || &nbsp; || ꒂ
 |-----
-! <font style="background:lightblue">u
+! <font style="background:lightblue">u</font>
 | &nbsp; || ꀮ || ꁌ || ꁮ || ꂇ || ꂥ || ꃅ || ꃚ || ꃶ || ꄖ || ꄲ || ꅍ || ꅤ || &nbsp; || ꆓ || ꆭ || ꇐ || ꇴ || ꈐ || ꈬ || ꉂ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊤ || ꋆ || ꋣ || ꋿ || ꌠ || ꌾ || ꍗ || ꍲ || ꎊ || ꎡ || ꎼ || ꏖ || ꏲ || ꐎ || ꐩ || ꑀ || ꑛ || &nbsp; || ꒃ
 |-----
-! <font style="background:lightblue">u<sup>p</sup>
+! <font style="background:lightblue">u<sup>p</sup></font>
 | &nbsp; || ꀯ || ꁍ || ꁯ || ꂈ || ꂦ || ꃆ || ꃛ || ꃷ || ꄗ || ꄳ || ꅎ || ꅥ || &nbsp; || ꆔ || ꆮ || ꇑ || ꇵ || ꈑ || ꈭ || ꉃ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊥ || ꋇ || ꋤ || ꌀ || ꌡ || ꌿ || ꍘ || ꍳ || ꎋ || ꎢ || ꎽ || ꏗ || ꏳ || ꐏ || ꐪ || ꑁ || ꑜ || &nbsp; || ꒄ
 |-----
 ! ur<sup>x</sup>
@@ -93,16 +93,16 @@
 ! ur
 | &nbsp; || ꀱ || ꁏ || ꁱ || ꂊ || ꂨ || ꃈ || ꃝ || ꃹ || ꄙ || ꄵ || ꅐ || ꅧ || &nbsp; || ꆖ || ꆰ || ꇓ || ꇷ || ꈓ || ꈯ || ꉅ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊧ || ꋉ || ꋦ || ꌂ || ꌣ || &nbsp; || ꍚ || ꍵ || ꎍ || ꎤ || ꎿ || ꏙ || ꏵ || ꐑ || ꐬ || ꑃ || &nbsp; || &nbsp; || ꒆ
 |-----
-! <font style="background:lightblue">y<sup>t</sup>
+! <font style="background:lightblue">y<sup>t</sup></font>
 | &nbsp; || ꀲ || ꁐ || ꁲ || ꂋ || &nbsp; || ꃉ || ꃞ || ꃺ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꆱ || ꇔ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊨ || ꋊ || ꋧ || ꌃ || ꌤ || ꍀ || ꍞ || ꍹ || ꎑ || ꎨ || ꏃ || ꏝ || ꏶ || ꐒ || ꐭ || ꑄ || &nbsp; || ꑫ || ꒇ
 |-----
-! <font style="background:lightblue">y<sup>x</sup>
+! <font style="background:lightblue">y<sup>x</sup></font>
 | &nbsp; || ꀳ || ꁑ || ꁳ || ꂌ || ꂩ || ꃊ || ꃟ || ꃻ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꆲ || ꇕ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊩ || ꋋ || ꋨ || ꌄ || ꌥ || ꍁ || ꍜ || ꍷ || ꎏ || ꎦ || ꏁ || ꏛ || ꏷ || ꐓ || ꐮ || ꑅ || &nbsp; || ꑬ || ꒈ
 |-----
-! <font style="background:lightblue">y
+! <font style="background:lightblue">y</font>
 | &nbsp; || ꀴ || ꁒ || ꁴ || ꂍ || ꂪ || ꃋ || ꃠ || ꃼ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꆳ || ꇖ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊪ || ꋌ || ꋩ || ꌅ || ꌦ || ꍂ || ꍝ || ꍸ || ꎐ || ꎧ || ꏂ || ꏜ || ꏸ || ꐔ || ꐯ || ꑆ || &nbsp; || ꑭ || ꒉ
 |-----
-! <font style="background:lightblue">y<sup>p</sup>
+! <font style="background:lightblue">y<sup>p</sup></font>
 | &nbsp; || ꀵ || ꁓ || ꁵ || ꂎ || ꂫ || ꃌ || ꃡ || ꃽ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꆴ || ꇗ || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || ꊫ || ꋍ || ꋪ || ꌆ || ꌧ || ꍃ || ꍞ || ꍹ || ꎑ || ꎨ || ꏃ || ꏝ || ꏹ || ꐕ || ꐰ || ꑇ || &nbsp; || ꑮ || ꒊ
 |-----
 ! yr<sup>x</sup>
